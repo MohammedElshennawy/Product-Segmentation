@@ -9,8 +9,9 @@ To accommodate the complexity of customer behaviors and product diversity (over 
 
 > **Note**: At this stage, we have not yet committed to a final clustering algorithm. Instead, we evaluate multiple paths (e.g., dimensionality reduction + clustering, direct matrix factorization) to determine the most suitable approach based on data sparsity, interpretability, and business alignment.
 
+<br>
 
-
+<br>
 
 # <div style="padding:20px;color:white;margin:0;font-size:30px;font-family:Georgia;text-align:center;display:fill;border-radius:30px;background-color:#404040;overflow:hidden"><b>Objectives</b></div>
 
