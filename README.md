@@ -1,6 +1,3 @@
-<br>
-
-<a id="intro"></a>
 # <div style="padding:20px;color:white;margin:0;font-size:30px;font-family:Georgia;text-align:center;display:fill;border-radius:30px;background-color:#404040;overflow:hidden"><b>Introduction</b></div>
 
     
@@ -12,18 +9,9 @@ To accommodate the complexity of customer behaviors and product diversity (over 
 
 > **Note**: At this stage, we have not yet committed to a final clustering algorithm. Instead, we evaluate multiple paths (e.g., dimensionality reduction + clustering, direct matrix factorization) to determine the most suitable approach based on data sparsity, interpretability, and business alignment.
 
-<br>
 
-<a id="Objective"></a>
 # <div style="padding:20px;color:white;margin:0;font-size:30px;font-family:Georgia;text-align:center;display:fill;border-radius:30px;background-color:#404040;overflow:hidden"><b>Objectives</b></div>
 
-
-<div style="
-    border: 2px solid #4CAF50; 
-    padding: 15px; 
-    background-color: #f5f5f5; 
-    border-radius: 10px;
-">
     
 ## 🎯 The core objectives of this project are:
 
