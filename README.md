@@ -3,13 +3,6 @@
 <a id="intro"></a>
 # <div style="padding:20px;color:white;margin:0;font-size:30px;font-family:Georgia;text-align:center;display:fill;border-radius:30px;background-color:#404040;overflow:hidden"><b>Introduction</b></div>
 
-
-<div style="
-    border: 2px solid #4CAF50; 
-    padding: 15px; 
-    background-color: #f5f5f5; 
-    border-radius: 10px;
-">
     
 This project explores advanced segmentation of e-commerce customers based on their aggregated product purchases, with the goal of improving personalization, marketing effectiveness, and customer engagement.
 
